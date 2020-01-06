@@ -1,0 +1,38 @@
+{
+  "name": "node-classmate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "async": "^3.1.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "koa": "^2.8.2",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mariadb": "^2.1.1",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
+    "node-xlsx": "^0.15.0",
+    "nodemon": "^1.19.3",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.19.5",
+    "sqlite3": "^4.1.0",
+    "tedious": "^6.4.0"
+  }
+}
