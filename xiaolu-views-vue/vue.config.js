@@ -39,7 +39,7 @@ module.exports = {
   },
   devServer: {
     disableHostCheck: true,
-    host:'http://www.xiaolus.com:8080/',
+    host:'http://www.xiaolus.com/',
     port: 8080,
     proxy: {
       '/api/': {
